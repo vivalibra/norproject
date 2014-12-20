@@ -3,11 +3,11 @@ norproject
 
 Home of the Nor Project (Not Tor Project)
 
-The Nor Project is an effort to create a light-weight but compatible fork of Tor that is an alternative to the centralized directory services of the Tor Project.
+The Nor Project is an effort to create a light-weight but compatible fork of Tor that is an alternative to the centralized directory authority services of the Tor Project.
 
 This project is intended to plug into the existing tor ecosystem and to supplement and strengthen Tor, not to replace it.
 
-Why?  On December 19th 2014 the Tor Project blog announced the possibility of a seizure occuring against the primary directory servers of the Tor network.  These directory servers are a crucial piece of infrastructure and unfortunately there are only a handful of them.  https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network
+Why?  On December 19th 2014 the Tor Project blog announced the possibility of a seizure occuring against the primary directory authority servers of the Tor network.  These directory servers are a crucial piece of infrastructure and unfortunately there are only a handful of them.  https://blog.torproject.org/blog/possible-upcoming-attempts-disable-tor-network
 
 We at the Nor Project believe that the particular services provided by the directory authority servers might be better served by a fully decentralized solution.
 

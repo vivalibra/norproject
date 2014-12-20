@@ -54,4 +54,4 @@ The difficulty level will be tied to the total available bandwidth as indicated 
 
 Another flaw is how to handle grief nodes.  A node cannot be forced to sign and there is no way to punish a node that refuses.  There is also no way to verify QoS from the relay.  Our solution is that the accept token should contain a provisional signature to prove the node owns the source token and this is broadcast over bitmessage.  If there is no corresponding "rated" signature within 2 hours, the source token is considered destroyed and not usable by either party.
 
-To keep things simple, there will be 21 Million coins total with a block generation rate of 50 coins per block and a new block every 10 minutes and a halving period of 52560 blocks or ~1 year.  The miner will keep most of the coins with the some being distributed as follows.  
+To keep things simple, there will be 21 Million coins total with a block generation rate of 50 coins per block and a new block every 10 minutes and a halving period of 52560 blocks or ~1 year.
